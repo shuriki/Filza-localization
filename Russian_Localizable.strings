@@ -1,4 +1,3 @@
-"%@_h"="%@_ч";
 "%d application(s)"="%d программ(ы)";
 "%d file(s)"="%d файл(ов)";
 "%d file(s), %d folder(s)"="%d файл(ов), %d папка(и)";
@@ -7,7 +6,7 @@
 "%d folder(s)"="%d папка(и)";
 "%d folder(s), %d hidden"="%d папка(и), %d скрыто";
 "%d hidden item(s)"="%d скрыто элемент(ов)";
-"%d item(s)"="%d item(s)";
+"%d item(s)"="%d строк(и)";
 "\/var\/stash parser"="Синтакс. анализатор";
 "ACCEPTING CONNECTION AT"="ПОДКЛЮЧЕНИЕ К";
 "About"="О программе";
@@ -58,7 +57,7 @@
 "Contact"="Обратная связь";
 "Continue"="Продолжить";
 "Copy"="Копировать";
-"Copy to %@"="Copy to %@";
+"Copy to %@"="скопировать в %@";
 "Copy to app"="Копировать файл";
 "Copying ..."="Копирую ...";
 "Copying..."="Копирую...";
@@ -81,7 +80,7 @@
 "Create new"="Создать";
 "Create shared link"="Поделится ссылкой";
 "Created by"="Создано в";
-"Created link"="Created link";
+"Created link"="Создание ярлыка";
 "Creating"="Создано";
 "Creating..."="Создаю...";
 "Credits"="Благодарности";
@@ -127,7 +126,7 @@
 "Edit"="Изменить";
 "Editable"="Редактирование";
 "Email"="Email";
-"Empty"="Empty";
+"Empty"="Пусто";
 "Empty file"="Пустой файл";
 "Enable WebDAV server"="Вкл. WebDAV сервер";
 "Enable authentication"="Вкл. идентификацию";
@@ -224,7 +223,7 @@
 "Not Found"="Не найдено";
 "Not activated"="Не активировано";
 "Now you can use Filza from any web browser"="Теперь вы можете использовать Filza из любого веб-браузера";
-"Number"="Number";
+"Number"="Номер";
 "OK"="OK";
 "Open behavior"="Параметры открытия";
 "Open in"="Открыть в";
@@ -285,7 +284,7 @@
 "Selected items contains folder. Do you want to zip item(s)?"="Выбранные элементы содержат папку. Вы хотите упаковать все элементы?";
 "Send email"="Отправить по email";
 "Send mail error"="Ошибка при отправке почты";
-"Series"="Series";
+"Series"="Серия";
 "Server"="Сервер";
 "Server is running"="Сервер был запущен";
 "Server was stopped"="Сервер был остановлен";
@@ -391,8 +390,8 @@
 "untitled folder"="безымянная папка";
 "was changed. Upload this file back to server"="было изменено. Загрузите этот файл обратно на сервер";
 "was decompressed"="был распакован";
-"Top toolbar" = "Top toolbar";
-"Fixed" = "Fixed";
-"Floating" = "Floating";
-"Font size"="Font size";
-"Small font size"="Small font size";
+"Top toolbar" = "Панель инструментов";
+"Fixed" = "Фиксированая";
+"Floating" = "Плавающая";
+"Font size"="Размер шрифта";
+"Small font size"="Маленький шрифт";
